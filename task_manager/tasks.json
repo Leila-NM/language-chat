@@ -1,0 +1,10 @@
+[
+    {
+        "description": "Wash clothes",
+        "completed": false
+    },
+    {
+        "description": "Cook supper",
+        "completed": false
+    }
+]
